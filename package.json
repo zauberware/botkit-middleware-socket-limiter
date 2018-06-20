@@ -1,0 +1,25 @@
+{
+  "name": "botkit-middleware-socket-limiter",
+  "version": "1.0.0",
+  "description": "Botkit middleware for limiting socket traffic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zauberware/botkit-middleware-socket-limiter.git"
+  },
+  "keywords": [
+    "Botkit",
+    "Webocket",
+    "Socketbot",
+    "Limiter"
+  ],
+  "author": "zauberware technologies",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zauberware/botkit-middleware-socket-limiter/issues"
+  },
+  "homepage": "https://github.com/zauberware/botkit-middleware-socket-limiter#readme"
+}
